@@ -6,7 +6,7 @@ Steam 비주얼 노벨 **魔法少女×幸せ××××バイト** 체험판의 �
 
 ## 설치
 
-1. [Releases](../../releases)에서 `MagicalGirlBaito_KoreanPatch_v*.zip`을 받습니다.
+1. [Releases](../../releases)에서 `MagicalGirlBaitoDemo_KoreanPatch_v*.zip`을 받습니다.
 2. 압축을 풀어 나온 파일을 게임 폴더(`xxxxx.exe`가 있는 폴더)에 덮어씁니다.
 
 ## 면책
