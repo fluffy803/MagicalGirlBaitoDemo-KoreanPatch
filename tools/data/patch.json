@@ -1,0 +1,60 @@
+{
+ "enum_rename": {
+  "ユメ": "유메",
+  "システム": "시스템",
+  "オト": "오토",
+  "ルイ": "루이"
+ },
+ "param_display": [
+  {
+   "term": "幸福",
+   "slot": "0x1449198",
+   "borrow_literal": 10705,
+   "borrow_slot": "0x14417F8",
+   "borrow_head": "{0} :: This DOTweenAnimation's target is NULL"
+  },
+  {
+   "term": "依存",
+   "slot": "0x1448DA8",
+   "borrow_literal": 10707,
+   "borrow_slot": "0x14418D8",
+   "borrow_head": "{0} :: This tween's TO target is NULL"
+  },
+  {
+   "term": "戦意",
+   "slot": "0x1449208",
+   "borrow_literal": 2376,
+   "borrow_slot": "0x143DC00",
+   "borrow_head": "DOTweenTMPAnimator target can't be null"
+  },
+  {
+   "term": "負荷",
+   "slot": "0x14497B8",
+   "borrow_literal": 5997,
+   "borrow_slot": "0x1455508",
+   "borrow_head": "TypedTextGenerator found Invalid paramter format"
+  }
+ ],
+ "gameassembly_methods": [
+  {
+   "name": "FlyTextUI.KindToLabel",
+   "start": "0x250C80",
+   "end": "0x250D30",
+   "expect": 8
+  },
+  {
+   "name": "GameParams.DisplayName",
+   "start": "0x23EB90",
+   "end": "0x23EC30",
+   "expect": 8
+  }
+ ],
+ "layout_fixes": [
+  {
+   "file": "level1",
+   "tmp": 680,
+   "dx": -5,
+   "dy": 0
+  }
+ ]
+}

@@ -1,0 +1,722 @@
+{
+ "targets": {
+  "term/戦意": {
+   "type": "param",
+   "jp": "戦意"
+  },
+  "term/負荷": {
+   "type": "param",
+   "jp": "負荷"
+  },
+  "term/依存": {
+   "type": "param",
+   "jp": "依存"
+  },
+  "term/幸福": {
+   "type": "param",
+   "jp": "幸福"
+  },
+  "term/劇薬行動": {
+   "type": "drug",
+   "jp": "劇薬行動"
+  },
+  "term/選択": {
+   "type": "logtag",
+   "jp": "選択"
+  },
+  "term/選択結果": {
+   "type": "logtag",
+   "jp": "選択結果"
+  },
+  "term/選択不可": {
+   "type": "logtag",
+   "jp": "選択不可"
+  },
+  "chara/boss": {
+   "type": "chara",
+   "file": "sharedassets0.assets",
+   "path_id": 228
+  },
+  "chara/etoile": {
+   "type": "chara",
+   "file": "sharedassets0.assets",
+   "path_id": 229
+  },
+  "chara/oto": {
+   "type": "chara",
+   "file": "sharedassets0.assets",
+   "path_id": 230
+  },
+  "chara/rui": {
+   "type": "chara",
+   "file": "sharedassets0.assets",
+   "path_id": 231
+  },
+  "chara/yume": {
+   "type": "chara",
+   "file": "sharedassets0.assets",
+   "path_id": 232
+  },
+  "sceneinfo/y_00": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 233
+  },
+  "sceneinfo/y_01": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 234
+  },
+  "sceneinfo/y_02": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 235
+  },
+  "sceneinfo/y_03": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 236
+  },
+  "sceneinfo/y_04": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 237
+  },
+  "sceneinfo/y_04S": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 238
+  },
+  "sceneinfo/y_04W": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 239
+  },
+  "sceneinfo/y_05H": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 240
+  },
+  "sceneinfo/y_05U": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 241
+  },
+  "sceneinfo/y_05UE": {
+   "type": "sceneinfo",
+   "file": "sharedassets0.assets",
+   "path_id": 242
+  },
+  "code/save_overwrite": {
+   "type": "literal",
+   "index": 10682
+  },
+  "code/load_confirm": {
+   "type": "literal",
+   "index": 10944
+  },
+  "code/newgame_confirm": {
+   "type": "literal",
+   "index": 10946
+  },
+  "code/backtitle_confirm": {
+   "type": "literal",
+   "index": 10953
+  },
+  "code/fullskip_confirm": {
+   "type": "literal",
+   "index": 10943
+  },
+  "code/auto": {
+   "type": "literal",
+   "index": 10948
+  },
+  "code/auto_on": {
+   "type": "literal",
+   "index": 10950
+  },
+  "code/auto_off": {
+   "type": "literal",
+   "index": 10949
+  },
+  "code/skip_on": {
+   "type": "literal",
+   "index": 10952
+  },
+  "code/skip_off": {
+   "type": "literal",
+   "index": 10951
+  },
+  "code/choice_log": {
+   "type": "literal",
+   "index": 10938
+  },
+  "code/choice_result": {
+   "type": "literal",
+   "index": 10940
+  },
+  "code/choice_locked": {
+   "type": "literal",
+   "index": 10939
+  },
+  "code/cannot_choose": {
+   "type": "literal",
+   "index": 10998
+  },
+  "code/sealed": {
+   "type": "literal",
+   "index": 10945
+  },
+  "code/lack": {
+   "type": "literal",
+   "index": 10994
+  },
+  "code/player_tag": {
+   "type": "literal",
+   "index": 11058
+  },
+  "code/day_suffix": {
+   "type": "literal",
+   "index": 10986
+  },
+  "code/label_start": {
+   "type": "literal",
+   "index": 11060
+  },
+  "code/label_after": {
+   "type": "literal",
+   "index": 11059
+  },
+  "code/manual_about": {
+   "type": "literal",
+   "index": 10995
+  },
+  "code/title_after": {
+   "type": "literal",
+   "index": 10999
+  },
+  "ui/level0/324": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 324,
+   "also": []
+  },
+  "ui/level0/325": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 325,
+   "also": []
+  },
+  "ui/level0/328": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 328,
+   "also": []
+  },
+  "ui/level0/330": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 330,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 723
+    }
+   ]
+  },
+  "ui/level0/331": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 331,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 721
+    }
+   ]
+  },
+  "ui/level0/333": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 333,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 728
+    }
+   ]
+  },
+  "ui/level0/335": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 335,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 702
+    },
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 725
+    }
+   ]
+  },
+  "ui/level0/338": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 338,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 718
+    }
+   ]
+  },
+  "ui/level0/339": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 339,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 713
+    },
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 716
+    }
+   ]
+  },
+  "ui/level0/340": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 340,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level0",
+     "path_id": 343
+    },
+    {
+     "type": "tmp",
+     "file": "level0",
+     "path_id": 344
+    },
+    {
+     "type": "tmp",
+     "file": "level0",
+     "path_id": 348
+    },
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 707
+    },
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 711
+    },
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 715
+    },
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 719
+    }
+   ]
+  },
+  "ui/level0/341": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 341,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 714
+    }
+   ]
+  },
+  "ui/level0/345": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 345,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 703
+    }
+   ]
+  },
+  "ui/level0/346": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 346,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 708
+    }
+   ]
+  },
+  "ui/level0/347": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 347,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 706
+    }
+   ]
+  },
+  "ui/level0/349": {
+   "type": "tmp",
+   "file": "level0",
+   "path_id": 349,
+   "also": [
+    {
+     "type": "tmp",
+     "file": "level1",
+     "path_id": 705
+    }
+   ]
+  },
+  "ui/level1/654": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 654,
+   "also": []
+  },
+  "ui/level1/656": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 656,
+   "also": []
+  },
+  "ui/level1/657": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 657,
+   "also": []
+  },
+  "ui/level1/660": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 660,
+   "also": []
+  },
+  "ui/level1/661": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 661,
+   "also": []
+  },
+  "ui/level1/662": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 662,
+   "also": []
+  },
+  "ui/level1/664": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 664,
+   "also": []
+  },
+  "ui/level1/665": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 665,
+   "also": []
+  },
+  "ui/level1/666": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 666,
+   "also": []
+  },
+  "ui/level1/668": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 668,
+   "also": []
+  },
+  "ui/level1/669": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 669,
+   "also": []
+  },
+  "ui/level1/673": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 673,
+   "also": []
+  },
+  "ui/level1/675": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 675,
+   "also": []
+  },
+  "ui/level1/676": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 676,
+   "also": []
+  },
+  "ui/level1/677": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 677,
+   "also": []
+  },
+  "ui/level1/679": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 679,
+   "also": []
+  },
+  "ui/level1/680": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 680,
+   "also": []
+  },
+  "ui/level1/681": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 681,
+   "also": []
+  },
+  "ui/level1/684": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 684,
+   "also": []
+  },
+  "ui/level1/685": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 685,
+   "also": []
+  },
+  "ui/level1/687": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 687,
+   "also": []
+  },
+  "ui/level1/688": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 688,
+   "also": []
+  },
+  "ui/level1/690": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 690,
+   "also": []
+  },
+  "ui/level1/692": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 692,
+   "also": []
+  },
+  "ui/level1/693": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 693,
+   "also": []
+  },
+  "ui/level1/695": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 695,
+   "also": []
+  },
+  "ui/level1/696": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 696,
+   "also": []
+  },
+  "ui/level1/697": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 697,
+   "also": []
+  },
+  "ui/level1/698": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 698,
+   "also": []
+  },
+  "ui/level1/700": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 700,
+   "also": []
+  },
+  "ui/level1/701": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 701,
+   "also": []
+  },
+  "ui/level1/710": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 710,
+   "also": []
+  },
+  "ui/level1/712": {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 712,
+   "also": []
+  },
+  "ui/sharedassets0.assets/266": {
+   "type": "tmp",
+   "file": "sharedassets0.assets",
+   "path_id": 266,
+   "also": []
+  },
+  "tooltip/level0/391": {
+   "type": "raw",
+   "file": "level0",
+   "path_id": 391,
+   "off": 36,
+   "also": [
+    {
+     "type": "raw",
+     "file": "level1",
+     "path_id": 1013,
+     "off": 36
+    }
+   ]
+  },
+  "tooltip/level0/443": {
+   "type": "raw",
+   "file": "level0",
+   "path_id": 443,
+   "off": 36,
+   "also": [
+    {
+     "type": "raw",
+     "file": "level1",
+     "path_id": 976,
+     "off": 36
+    }
+   ]
+  },
+  "tooltip/level0/466": {
+   "type": "raw",
+   "file": "level0",
+   "path_id": 466,
+   "off": 36,
+   "also": [
+    {
+     "type": "raw",
+     "file": "level1",
+     "path_id": 952,
+     "off": 36
+    }
+   ]
+  },
+  "tooltip/level0/493": {
+   "type": "raw",
+   "file": "level0",
+   "path_id": 493,
+   "off": 36,
+   "also": [
+    {
+     "type": "raw",
+     "file": "level1",
+     "path_id": 886,
+     "off": 36
+    }
+   ]
+  }
+ },
+ "derived": [
+  {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 659,
+   "term": "負荷",
+   "suffix": "："
+  },
+  {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 667,
+   "term": "依存",
+   "suffix": "："
+  },
+  {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 682,
+   "term": "幸福",
+   "suffix": "："
+  },
+  {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 704,
+   "term": "劇薬行動",
+   "suffix": ""
+  },
+  {
+   "type": "tmp",
+   "file": "level1",
+   "path_id": 709,
+   "term": "戦意",
+   "suffix": "："
+  },
+  {
+   "type": "raw",
+   "file": "level1",
+   "path_id": 765,
+   "off": 124,
+   "term": "選択",
+   "suffix": ""
+  },
+  {
+   "type": "raw",
+   "file": "level1",
+   "path_id": 765,
+   "off": 152,
+   "term": "選択結果",
+   "suffix": ""
+  },
+  {
+   "type": "raw",
+   "file": "level1",
+   "path_id": 765,
+   "off": 212,
+   "term": "選択不可",
+   "suffix": ""
+  }
+ ]
+}

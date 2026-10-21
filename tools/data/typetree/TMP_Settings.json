@@ -1,0 +1,690 @@
+[
+ {
+  "m_Level": 0,
+  "m_Type": "TMP_Settings",
+  "m_Name": "Base",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "PPtr<GameObject>",
+  "m_Name": "m_GameObject",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_Enabled",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "PPtr<MonoScript>",
+  "m_Name": "m_Script",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "string",
+  "m_Name": "m_Name",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "string",
+  "m_Name": "assetVersion",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "Array",
+  "m_Name": "Array",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "int",
+  "m_Name": "size",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "char",
+  "m_Name": "data",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "int",
+  "m_Name": "m_TextWrappingMode",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_enableKerning",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "vector",
+  "m_Name": "m_ActiveFontFeatures",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "Array",
+  "m_Name": "Array",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "int",
+  "m_Name": "size",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "unsigned int",
+  "m_Name": "data",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_enableExtraPadding",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_enableTintAllSprites",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_enableParseEscapeCharacters",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_EnableRaycastTarget",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_GetFontFeaturesAtRuntime",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "int",
+  "m_Name": "m_missingGlyphCharacter",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_ClearDynamicDataOnBuild",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_warningsDisabled",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "PPtr<$TMP_FontAsset>",
+  "m_Name": "m_defaultFontAsset",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "string",
+  "m_Name": "m_defaultFontAssetPath",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "Array",
+  "m_Name": "Array",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "int",
+  "m_Name": "size",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "char",
+  "m_Name": "data",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "float",
+  "m_Name": "m_defaultFontSize",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "float",
+  "m_Name": "m_defaultAutoSizeMinRatio",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "float",
+  "m_Name": "m_defaultAutoSizeMaxRatio",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "Vector2",
+  "m_Name": "m_defaultTextMeshProTextContainerSize",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "float",
+  "m_Name": "x",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "float",
+  "m_Name": "y",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "Vector2",
+  "m_Name": "m_defaultTextMeshProUITextContainerSize",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "float",
+  "m_Name": "x",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "float",
+  "m_Name": "y",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_autoSizeTextContainer",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_IsTextObjectScaleStatic",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "vector",
+  "m_Name": "m_fallbackFontAssets",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "Array",
+  "m_Name": "Array",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "int",
+  "m_Name": "size",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "PPtr<$TMP_FontAsset>",
+  "m_Name": "data",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 4,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 4,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_matchMaterialPreset",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_HideSubTextObjects",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "PPtr<$TMP_SpriteAsset>",
+  "m_Name": "m_defaultSpriteAsset",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "string",
+  "m_Name": "m_defaultSpriteAssetPath",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "Array",
+  "m_Name": "Array",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "int",
+  "m_Name": "size",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "char",
+  "m_Name": "data",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_enableEmojiSupport",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "unsigned int",
+  "m_Name": "m_MissingCharacterSpriteUnicode",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "vector",
+  "m_Name": "m_EmojiFallbackTextAssets",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "Array",
+  "m_Name": "Array",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "int",
+  "m_Name": "size",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "PPtr<$TMP_Asset>",
+  "m_Name": "data",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 4,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 4,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "string",
+  "m_Name": "m_defaultColorGradientPresetsPath",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "Array",
+  "m_Name": "Array",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "int",
+  "m_Name": "size",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "char",
+  "m_Name": "data",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "PPtr<$TMP_StyleSheet>",
+  "m_Name": "m_defaultStyleSheet",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "string",
+  "m_Name": "m_StyleSheetsResourcePath",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "Array",
+  "m_Name": "Array",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "int",
+  "m_Name": "size",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 3,
+  "m_Type": "char",
+  "m_Name": "data",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "PPtr<$TextAsset>",
+  "m_Name": "m_leadingCharacters",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "PPtr<$TextAsset>",
+  "m_Name": "m_followingCharacters",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "int",
+  "m_Name": "m_FileID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 2,
+  "m_Type": "SInt64",
+  "m_Name": "m_PathID",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 0
+ },
+ {
+  "m_Level": 1,
+  "m_Type": "UInt8",
+  "m_Name": "m_UseModernHangulLineBreakingRules",
+  "m_ByteSize": 0,
+  "m_Version": 0,
+  "m_MetaFlag": 16384
+ }
+]

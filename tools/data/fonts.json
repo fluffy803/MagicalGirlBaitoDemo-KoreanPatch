@@ -1,0 +1,107 @@
+{
+ "_설명": "일본어 원본 TMP 폰트마다 짝 한글 폰트. 폰트 파일은 환경변수 MGB_FONTS 폴더에 ttf 이름 그대로 둔다(source 에서 받기). scale=TMP FaceInfo.Scale, pt/pad=샘플링 크기·패딩(외곽선 두께가 짝 일본어 폰트와 같은 비율이 되게), gs=그라디언트 스케일, global=TMP Settings 전역 폴백",
+ "fonts": [
+  {
+   "key": "MaruMinyaHangul",
+   "ttf": "x12y12pxMaruMinyaHangul.ttf",
+   "pt": 24,
+   "pad": 8,
+   "gs": 12,
+   "scale": 1.0,
+   "global": true,
+   "jp": [
+    [
+     "sharedassets0.assets",
+     217,
+     "x12y12pxMaruMinya SDF"
+    ],
+    [
+     "sharedassets0.assets",
+     218,
+     "x12y16pxSolidLinker SDF"
+    ]
+   ],
+   "source": "https://github.com/quiple/x12y12pxMaruMinyaHangul"
+  },
+  {
+   "key": "DenkiChipHangul",
+   "ttf": "x10y12pxDenkiChipHangul.ttf",
+   "pt": 24,
+   "pad": 8,
+   "gs": 9,
+   "scale": 1.0,
+   "jp": [
+    [
+     "sharedassets0.assets",
+     219,
+     "x8y12pxDenkiChip SDF"
+    ]
+   ],
+   "source": "https://github.com/quiple/x10y12pxDenkiChipHangul"
+  },
+  {
+   "key": "Galmuri7",
+   "ttf": "Galmuri7.ttf",
+   "pt": 24,
+   "pad": 16,
+   "gs": 120,
+   "scale": 0.6666667,
+   "jp": [
+    [
+     "sharedassets0.assets",
+     216,
+     "X8Y12PXTHESTRONGGAMER SDF"
+    ]
+   ],
+   "source": "https://github.com/quiple/galmuri"
+  },
+  {
+   "key": "Galmuri11Condensed",
+   "ttf": "Galmuri11-Condensed.ttf",
+   "pt": 24,
+   "pad": 8,
+   "gs": 24,
+   "scale": 1.0,
+   "jp": [
+    [
+     "sharedassets1.assets",
+     130,
+     "k8x12 SDF"
+    ]
+   ],
+   "source": "https://github.com/quiple/galmuri"
+  },
+  {
+   "key": "Mulmaru",
+   "ttf": "Mulmaru.ttf",
+   "pt": 96,
+   "pad": 8,
+   "gs": 9,
+   "scale": 1.0,
+   "jp": [
+    [
+     "sharedassets0.assets",
+     215,
+     "Wonderland SDF"
+    ]
+   ],
+   "source": "https://github.com/mushsooni/mulmaru"
+  },
+  {
+   "key": "NanumMyeongjoBold",
+   "ttf": "NanumMyeongjo-Bold.ttf",
+   "pt": 36,
+   "pad": 6,
+   "gs": 44,
+   "scale": 0.85,
+   "jp": [
+    [
+     "sharedassets1.assets",
+     128,
+     "KaiseiOpti-Medium SDF"
+    ]
+   ],
+   "source": "https://github.com/google/fonts/tree/main/ofl/nanummyeongjo"
+  }
+ ]
+}

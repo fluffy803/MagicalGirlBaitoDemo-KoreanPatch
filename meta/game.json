@@ -1,0 +1,15 @@
+{
+ "app": "魔法少女×幸せ××××バイト Demo",
+ "steam_appid": 5149630,
+ "buildid": 24850931,
+ "sha256": {
+  "GameAssembly.dll": "c0bb622aba6e747b2323cff4628243bbe585f0a84e2a062775d15b4e37aaf458",
+  "xxxxx_Data/sharedassets0.assets": "80013fe90f1b3d9f894225b5822acb78560e0261c7acf2139ce312162f1a1242",
+  "xxxxx_Data/sharedassets1.assets": "77823a4c6a4f1b6fad50c25dd3e9a32e57607de1da5156bf9258bc1b8fba0dc1",
+  "xxxxx_Data/level0": "9863c0f6fd66087961611ce67aea7b82783f32fb5b77c2708e7c794609746723",
+  "xxxxx_Data/level1": "e2f82d108c496293870b784d420980714a3ee226a55d993d7e8bee3aa2d96dbe",
+  "xxxxx_Data/resources.assets": "c2597a8b6b387dc556f651845a6d9fb0ea16614a2252a22905e3fcb383d259e6",
+  "xxxxx_Data/globalgamemanagers.assets": "1cb6165d3d6adef0a268d9aa7018707a6d01086b035d8a5809ffcfdb88c6cf25",
+  "xxxxx_Data/il2cpp_data/Metadata/global-metadata.dat": "592eb1fdc30d4eed2572c9be907574cf55dccbeb1d900b0d5332c17e03edc846"
+ }
+}
